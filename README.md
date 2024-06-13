@@ -48,3 +48,7 @@ docker compose up -d
 ```
 
 O `-d` flag é usado para executar o contêiner em segundo plano, desconectado do terminal.
+
+## Considerações Finais e Resultados da Análise Exploratória
+
+Em construção...
