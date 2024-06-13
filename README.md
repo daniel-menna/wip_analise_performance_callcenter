@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Uma empresa de Contact Center fez uma pesquisa no momento da contratação de um grupo de colaboradores (agentes de atendimento) através do <a href=\"https://pt.surveymonkey.com/\">Survey Monkey</a>. Após 6 meses da contratação verificou se quais colaboradores atingiram um bom desempenho de Qualidade e dos indicadores operacionais.
+Uma empresa de Contact Center fez uma pesquisa no momento da contratação de um grupo de colaboradores (agentes de atendimento) através do [Survey Monkey]("https://pt.surveymonkey.com). Após 6 meses da contratação verificou se quais colaboradores atingiram um bom desempenho de Qualidade e dos indicadores operacionais.
 
 Antes de criar um modelo que possa ser utilizado para entender os fatores mais associados a uma boa performance futura, o time de Atendimento ao Cliente precisa processar os dados brutos da ferramenta de pesquisa e realizar algumas análises exploratóri para a preparação dos dados.
 
@@ -19,6 +19,6 @@ Preparar um plano de ação definindo quais iniciativas a empresa deve priorizar
 ### Conhecendo as bases de dados
 
 Para a execução deste projeto, serão utilizadas 3 bases de dados:
-- **dados_contact_center_survey.csv:** contém as informações brutas extraídas do <a href=\"https://pt.surveymonkey.com/\">Survey Monkey</a>;
+- **dados_contact_center_survey.csv:** contém as informações brutas extraídas do [Survey Monkey]("https://pt.surveymonkey.com);
 - **dados_contact_center_survey_desempenho.csv:** contém as informações de desempenho dos funcionários;
 - **dados_contact_center_survey_processado.csv:** contém o formato dos dados que o time de contact center esperar receber os dados para a análise exploratório.
