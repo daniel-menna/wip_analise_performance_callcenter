@@ -34,12 +34,12 @@ Tendo o Docker instalado, siga os seguintes passos:
 
 1. Clone o repositorio localmente.
 ```bash 
-git clone https://github.com/daniel-menna/analise_performance_callcenter
+git clone https://github.com/daniel-menna/wip_analise_performance_callcenter
 ```
 
 2. Acesse a pasta do projeto.
 ```bash
-cd analise_performance_callcenter
+cd wip_analise_performance_callcenter
 ```
 
 3. Crie o Docker container.
