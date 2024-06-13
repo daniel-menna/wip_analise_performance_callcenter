@@ -22,3 +22,29 @@ Para a execução deste projeto, serão utilizadas 3 bases de dados:
 - **dados_contact_center_survey.csv:** contém as informações brutas extraídas do [Survey Monkey](https://pt.surveymonkey.com);
 - **dados_contact_center_survey_desempenho.csv:** contém as informações de desempenho dos funcionários;
 - **dados_contact_center_survey_processado.csv:** contém o formato dos dados que o time de contact center esperar receber os dados para a análise exploratório.
+
+## Executando o projeto
+
+É necessário ter o Docker e o Docker Compose instalados para poder executar este projeto.
+
+- [Start with Docker](https://www.docker.com/get-started/)
+- [Install Docker Compose](https://docs.docker.com/compose/install/)
+
+Tendo o Docker instalado, siga os seguintes passos:
+
+1. Clone o repositorio localmente.
+```bash 
+git clone https://github.com/daniel-menna/analise_performance_callcenter
+```
+
+2. Acesse a pasta do projeto.
+```bash
+cd analise_performance_callcenter
+```
+
+3. Crie o Docker container.
+```bash
+docker compose up -d
+```
+
+O `-d` flag é usado para executar o contêiner em segundo plano, desconectado do terminal.
