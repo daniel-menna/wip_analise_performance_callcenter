@@ -51,4 +51,9 @@ O `-d` flag é usado para executar o contêiner em segundo plano, desconectado d
 
 ## Considerações Finais e Resultados da Análise Exploratória
 
-Em construção...
+- De acrdo com a análise realizada, pessoas que trabalham em casa tiveram melhores desempenhos. Além disso, o tempo dispendido em locomoção para chegar ao trabalho está fortemente relacionado. Ou seja, pessoas que dispendem menos tempo no trajeto, possuem desempenho mais satisfatórios;
+- Além da possibilidade de trabalhar remoto, possuir uma infraestrutura adequada para executar as suas atividades, diz muito sobre os profissionais que tiveram melhores desempenho;
+- Pessoas que não possuem dependentes também apresentam melhor performance que as demais. O número de dependentes, também, está fortemente relacionado com a performance do entrevistado;
+- Os respondentes que se mostraram abertos a auxiliar os colegas também possuem desempenho superior. Aliado a isso, ser empático com o problema dos outros ter uma forte correlação para que o colaborador tenha sucesso na visão de performance;
+
+Caso tenha alguma consideração ou sugestão, fique super a vontade para compartilhar.
